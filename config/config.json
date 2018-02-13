@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "typescript-design-patterns-04-prototype-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/typescriptDesignPatterns04Prototype/TypescriptDesignPatterns04PrototypeWebPart.js",
+          "manifest": "./src/webparts/typescriptDesignPatterns04Prototype/TypescriptDesignPatterns04PrototypeWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TypescriptDesignPatterns04PrototypeWebPartStrings": "lib/webparts/typescriptDesignPatterns04Prototype/loc/{locale}.js"
+  }
+}

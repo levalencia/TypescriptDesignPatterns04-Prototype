@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "typescript-design-patterns-04-prototype-client-side-solution",
+    "id": "910521fa-7a7e-4bb5-8041-4e826a5a1114",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/typescript-design-patterns-04-prototype.sppkg"
+  }
+}
